@@ -7,3 +7,4 @@ coach : Oscar
 members :
 - JinHo
 - Olivia
+- Song
